@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ProbBayes"]
+	path = ProbBayes
+	url = https://github.com/bayesball/probbayes
+	shallow = true
+	registered = true
