@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LearnBayes"]
 	path = LearnBayes
 	url = https://github.com/bayesball/learnbayes
-	shallow = true
-	registered = true
 [submodule "ProbBayes"]
 	path = ProbBayes
 	url = https://github.com/bayesball/probbayes
-	shallow = true
-	registered = true
